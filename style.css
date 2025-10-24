@@ -779,6 +779,67 @@ hr {
   margin: 30px 0;
 }
 
+figure {
+
+  padding: 0;
+  font-family: inherit;
+  font-style: italic;
+  color: #555
+}
+
+.brands-figure {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.brands-figure figcaption {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: -2rem;
+  font-style: normal;
+  margin-top: 70px;
+  font-size: 1.1em;
+  font-weight: 500;
+  color: #555555;
+}
+
+.business figure blockquote {
+  font-size: 0.7em;
+  color: #9e9e9e;
+}
+
+.business figure figcaption {
+  font-family: serif;
+  font-style: italic;
+  font-size: 0.7em;
+  color: #9e9e9e;
+}
+
+.personal-growth figure blockquote {
+  font-size: 0.7em;
+  color: #9e9e9e;
+}
+
+.personal-growth figure figcaption {
+  font-family: serif;
+  font-style: italic;
+  font-size: 0.7em;
+  color: #9e9e9e;
+}
+
+.creations-section figure blockquote {
+  font-family: 'Inter', sans-serif;
+  font-size: 1em;
+  color: #9e9e9e;
+}
+
+.creations-section figure figcaption {
+  font-family: serif;
+  font-style: italic;
+  font-size: 1em;
+  color: #9e9e9e;
+}
 
 .simple-footer {
   font-family: 'Inter', sans-serif;
@@ -788,6 +849,7 @@ hr {
   border-top: 1px solid #e9ecef;
 
 }
+
 
 .simple-footer p {
   color: #6c757d;
