@@ -757,14 +757,36 @@ hr {
 }
 
 
+.future-outlook {
+  font-family: 'Inter', sans-serif;
+  padding: 60px 20px;
+  text-align: center;
+  background: #f8f9fa;
+  justify-content: center;
+}
+
+.outlook-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.outlook-content p {
+  line-height: 1.6;
+  color: #555;
+}
+
+.personal-note {
+  margin: 30px 0;
+}
+
 
 .simple-footer {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background: #f8f9fa;
+  font-family: 'Inter', sans-serif;
+  background: #ffffff;
   padding: 2rem 1rem;
   text-align: center;
   border-top: 1px solid #e9ecef;
-  margin-top: 4rem;
+
 }
 
 .simple-footer p {
